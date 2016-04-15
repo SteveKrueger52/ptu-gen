@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/CharCreator.unity
+  isLoaded: 1
+  isActive: 1
